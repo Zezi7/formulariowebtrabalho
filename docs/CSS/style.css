@@ -1,0 +1,16 @@
+
+.cor-azul {
+    background-color: blue;
+}
+
+.cor-rosa {
+    background-color: pink;
+}
+
+.cor-lilas{
+    background-color: #c8a2c8;
+}
+
+body {
+    transition: background-color 0.5s ease;
+}
